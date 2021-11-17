@@ -15,4 +15,5 @@ This is a repository to gain familiarity with git and Github.
  - git log
  - git checkout
  - git branch
+ - git reset
 
